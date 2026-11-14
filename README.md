@@ -1,4 +1,6 @@
 # Armwrestling Tournament Management System
+Group: SE-2512
+Members: Darkhan Daurambekov, Assylzhan Abishev, Magzhan Assankhan
 
 A Java application for running single-elimination armwrestling tournaments. Organizers can register athletes, draw brackets by weight class, record or undo match results, and view a report with the champion of each completed division. The application has a Swing desktop interface and a console mode. Tournament data is kept in memory for the current session.
 
